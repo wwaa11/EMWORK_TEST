@@ -26,6 +26,7 @@
                         </tr>
                         @endforeach
                     </tbody>
+                    <h2>เดือน {{$month}} </h2>
                     <h2>รวมรายรับ {{$income}} </h2>
                     <h2>รวมรายจ่าย {{$pay}} </h2>
                     <h2>คงเหลือ {{$total}} </h2>
